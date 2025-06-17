@@ -1,0 +1,3 @@
+/home/choped/Documents/projects/advent_of_code/02/cmake-build-debug/CMakeFiles/02.dir
+/home/choped/Documents/projects/advent_of_code/02/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/choped/Documents/projects/advent_of_code/02/cmake-build-debug/CMakeFiles/rebuild_cache.dir
